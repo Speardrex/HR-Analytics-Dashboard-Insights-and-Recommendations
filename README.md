@@ -40,7 +40,7 @@ This project analyzes a fictional dataset of 1,470 employees to:
 ## 📸 Screenshots
 
 ### 🔍 Dashboard Overview  
-![HR Analytics Dashboard](https://github.com/Speardrex/HR-Analytics-Dashboard-Insights-and-Recommendations/blob/main/screenshots/Dashboard_overview.png))  
+![HR Analytics Dashboard](https://github.com/Speardrex/HR-Analytics-Dashboard-Insights-and-Recommendations/blob/main/screenshots/Dashboard_overview.png)
 <sup>Attrition trends by age, gender, education, job role, and more</sup>
 
 ---
